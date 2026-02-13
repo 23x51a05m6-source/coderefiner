@@ -1,0 +1,5 @@
+streamlit
+groq
+fpdf
+streamlit-ace
+python-dotenv
